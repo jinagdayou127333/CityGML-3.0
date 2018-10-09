@@ -1,7 +1,7 @@
 CityGML 3.0
 ===========
 
-This is the public repository for the Open Geospatial Consortium (OGC) CityGML Standards Working Group (SWG) development of version 3.0 of the CityGML standard.
+This is the **archive** of the original repository for OGC CityGML 3.0 development between 2014 and 2018. The active repositories as of Summer 2018 are [CityGML-3.0CM](https://github.com/opengeospatial/CityGML-3.0CM) (Conceptual Model) and CityGML-3.0Encodings [CityGML-3.0Encodings](https://github.com/opengeospatial/CityGML-3.0Encodings).
 
 In order to increase the usability of CityGML for more user groups and areas of application, the OGC CityGML SWG and the Special Interest Group 3D (SIG 3D) of the initiative Geodata Infrastructure Germany (GDI-DE) work since 2014 on the further development of CityGML which will result in the next major version CityGML 3.0. The CityGML 3.0 standard will consist of at least two parts: 
 1. the CityGML 3.0 Conceptual Model specification, which is to be released at the end of 2018, and 
