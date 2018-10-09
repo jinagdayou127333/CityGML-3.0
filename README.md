@@ -1,5 +1,5 @@
-CityGML 3.0
-===========
+Archived CityGML 3.0 Development Repo
+=====================================
 
 This is the **archive** of the original repository for OGC CityGML 3.0 development between 2014 and 2018. The active repositories as of Summer 2018 are [CityGML-3.0CM](https://github.com/opengeospatial/CityGML-3.0CM) (Conceptual Model) and CityGML-3.0Encodings [CityGML-3.0Encodings](https://github.com/opengeospatial/CityGML-3.0Encodings).
 
